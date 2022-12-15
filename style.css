@@ -1,0 +1,76 @@
+body{
+ 
+    background-color: rgb(247, 242, 242);
+    
+}
+header .manu{
+    display: flex;
+    margin: 40px;
+}
+.manu div{
+    margin: 40px;
+    font-size: 18px;
+    
+}
+.manu div{
+    padding: 0px;
+}
+.p{
+    font-size: 40px;
+}
+nav ul{
+    list-style: none;
+}
+input{
+    margin: 20px;
+    padding: 5px;
+    border-radius: 6px;
+    background-color:none ;
+    display: hidin;
+    
+}
+button{
+    padding: 7px;
+    border-radius: 6px;
+    background-color: rgb(91, 62, 219);
+    background-color: none;
+    margin-left: 23px;
+    font-size: 18px;
+
+}
+nav ul li ul {
+    display: none;
+    position: absolute;
+    background-color: aliceblue;
+    padding: 2px;
+    margin: 0;
+    
+}
+ul li:hover ul{
+    display: block;
+    padding: 10px;
+    
+}
+.n{
+    font-size: 6px;
+    margin-left: 25px;
+}
+.sign{
+    font-size: 20px;
+}
+.in{
+    width: 500px;
+    height: 50px;
+    border: none;
+}
+.size{background-color: azure;
+    font-size: 90px;
+    text-align: center;
+}
+.fa-solid {
+    margin-left: 200px;
+}
+.fa-regular{
+    margin-left: 200px;
+    padding: 30px;
+}
